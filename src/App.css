@@ -1,0 +1,8 @@
+.app {
+  /* background-color: rgb(17, 255, 0); */
+}
+* {
+  scroll-padding-top: 60px;
+  /*this will work when i j am jumping to specific id,
+  header was overlapping content. so this helped to solve it*/
+}
